@@ -1,0 +1,166 @@
+{
+	"task": [
+		{
+			"id": 8,
+			"creation_date": "2022-05-09",
+			"cancel_date": "2022-05-10",
+			"fields": [
+				{
+					"id": 1,
+					"type": "plain text",
+					"name": "Name",
+					"value": "Huntie Ironforce"
+				},
+				{
+					"id": 2,
+					"type": "checkmark",
+					"name": "Siblings",
+					"value": true,
+					"fields": [
+						{
+							"id": 3,
+							"type": "plain text",
+							"name": "Mother",
+							"value": "Inga Maliflight"
+						},
+						{
+							"id": 4,
+							"type": "plain text",
+							"name": "Father",
+							"value": "Blazer Ironforce"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 800,
+			"creation_date": "2022-06-09",
+			"cancel_date": "2022-07-11",
+			"fields": [
+				{
+					"id": 1,
+					"type": "plain text",
+					"name": "Name",
+					"value": "Loqiemean Pitbullsky"
+				},
+				{
+					"id": 2,
+					"type": "checkmark",
+					"name": "Siblings",
+					"value": true,
+					"fields": [
+						{
+							"id": 3,
+							"type": "plain text",
+							"name": "Mother",
+							"value": "Julia Pitbullsky",
+							"fields": [
+								{
+									"id": 5,
+									"type": "plain text",
+									"name": "Siblings by mother",
+									"value": ["George Pitbullsky", "Zack Pitbullsky", "Viki Pitbullsky"]
+								}
+							]
+						},
+						{
+							"id": 4,
+							"type": "plain text",
+							"name": "Father",
+							"value": null
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 555,
+			"creation_date": "2021-02-09",
+			"cancel_date": "2021-02-10",
+			"fields": [
+				{
+					"id": 1,
+					"type": "plain text",
+					"name": "Name",
+					"value": "Blanca"
+				},
+				{
+					"id": 2,
+					"type": "checkmark",
+					"name": "Siblings",
+					"value": false
+				}
+			]
+		},
+		{
+			"id": 3535,
+			"creation_date": "2021-02-09",
+			"cancel_date": "2021-02-10",
+			"fields": [
+				{
+					"id": 1,
+					"type": "plain text",
+					"name": "Name",
+					"value": "Bulka Pyos"
+				},
+				{
+					"id": 2,
+					"type": "checkmark",
+					"name": "Siblings",
+					"value": true,
+					"fields": [
+						{
+							"id": 3,
+							"type": "plain text",
+							"name": "Mother",
+							"value": "Anarchy"
+						},
+						{
+							"id": 4,
+							"type": "plain text",
+							"name": "Father",
+							"value": "A glass of port wein"
+						}
+					]
+				},
+				{
+					"id": 6,
+					"type": "plain text",
+					"name": "Owner",
+					"value": "Leroi Hiks",
+					"fields": [
+						{
+							"id": 7,
+							"type": "plain text",
+							"name": "Species",
+							"value": "Elf",
+							"fields": [
+								{
+									"id": 8,
+									"type": "plain text",
+									"name": "Occupation",
+									"value": "ITCS specialist",
+									"fields": [
+										{
+											"id": 9,
+											"type": "plain text",
+											"name": "Class",
+											"value": "Integrator"
+										},
+										{
+											"id": 10,
+											"type": "plain text",
+											"name": "Subclass",
+											"value": "Project manager"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
